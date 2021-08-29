@@ -1,13 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: 'OWC-2020',
+    title: 'OWC-2022',
     description:
-      ' 9th IEEE GLOBECOM Workshop on Optical Wireless Communications (OWC’20) ',
+      ' 10th IEEE GLOBECOM Workshop on Optical Wireless Communications (OWC’22), IEEE ComSoc ICC 2022 at Seoul ',
+    siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/owc-2022/`,
+    social: {
+      facebook: `https://www.facebook.com/JapanOCWConsortium/`
+    }
   },
-  pathPrefix: `/owc-2020`,  
+  pathPrefix: `/owc-2022`,  
   plugins: [
-    'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass',
+    'gatsby-plugin-image',
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
@@ -60,12 +63,8 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: 'gatsby-plugin-netlify-cms',
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      },
-    },
+    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-sass',
     {
       resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
       options: {
@@ -73,6 +72,5 @@ module.exports = {
         purgeOnly: ['/all.sass'], // applies purging only on the bulma css file
       },
     }, // must be after other CSS plugins
-    'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 }
