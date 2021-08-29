@@ -7,6 +7,7 @@
     "bulma": "^0.9.3",
     "gatsby": "^3.12.1",
     "gatsby-image": "^3.11.0",
+    "gatsby-plugin-image": "^1.12.0",    
     "gatsby-plugin-purgecss": "^6.0.2",
     "gatsby-plugin-react-helmet": "^4.12.0",
     "gatsby-plugin-sass": "^4.12.0",
