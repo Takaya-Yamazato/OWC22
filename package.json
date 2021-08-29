@@ -1,35 +1,30 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
+  "name": "owc-2022-cms",
+  "description": "10th Optical Wireless Communicaiton (OWC) Workshop, IEEE ComSoc ICC 2022 at Seoul",
   "version": "1.1.3",
-  "author": "Austin Green",
+  "author": "Takaya Yamazato",
   "dependencies": {
-    "bulma": "^0.9.0",
-    "gatsby": "^2.20.35",
-    "gatsby-image": "^2.3.5",
-    "gatsby-plugin-netlify": "^2.2.4",
-    "gatsby-plugin-netlify-cms": "^4.2.5",
-    "gatsby-plugin-purgecss": "^5.0.0",
-    "gatsby-plugin-react-helmet": "^3.2.5",
-    "gatsby-plugin-sass": "^2.2.4",
-    "gatsby-plugin-sharp": "^2.5.7",
-    "gatsby-remark-copy-linked-files": "^2.2.4",
-    "gatsby-remark-images": "^3.2.6",
-    "gatsby-remark-relative-images": "^0.3.0",
-    "gatsby-source-filesystem": "^2.2.5",
-    "gatsby-transformer-remark": "^2.7.5",
-    "gatsby-transformer-sharp": "^2.4.7",
-    "lodash": "^4.17.15",
-    "lodash-webpack-plugin": "^0.11.4",
-    "netlify-cms-app": "^2.9.6",
-    "netlify-cms-media-library-cloudinary": "^1.3.2",
-    "netlify-cms-media-library-uploadcare": "^0.5.2",
-    "node-sass": "^4.14.0",
-    "prop-types": "^15.6.0",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4",
-    "react-helmet": "^6.0.0",
-    "uuid": "^7.0.0"
+    "bulma": "^0.9.3",
+    "gatsby": "^3.12.1",
+    "gatsby-image": "^3.11.0",
+    "gatsby-plugin-purgecss": "^6.0.2",
+    "gatsby-plugin-react-helmet": "^4.12.0",
+    "gatsby-plugin-sass": "^4.12.0",
+    "gatsby-plugin-sharp": "^3.12.0",
+    "gatsby-remark-copy-linked-files": "^4.9.0",
+    "gatsby-remark-images": "^5.9.0",
+    "gatsby-remark-relative-images": "^2.0.2",
+    "gatsby-source-filesystem": "^3.12.0",
+    "gatsby-transformer-remark": "^4.9.0",
+    "gatsby-transformer-sharp": "^3.12.0",
+    "lodash": "^4.17.21",
+    "lodash-webpack-plugin": "^0.11.6",
+    "node-sass": "^6.0.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "uuid": "^8.3.2"
   },
   "keywords": [
     "gatsby"
@@ -45,6 +40,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "^2.0.5"
+    "prettier": "^2.3.2"
   }
 }
