@@ -9,10 +9,9 @@ mainpitch:
   description: >
     Optical wireless communications (OWC) is a form of optical communication in which unguided visible, infrared (IR), or ultraviolet (UV) light is used to carry a signal.
 description: >-
-  This full-day workshop aims to bring together researchers and practitioners from academia and industry working in emerging LiFi, visible light communications (VLC) and underwater optical communications as well as the traditional wireless infrared communications (IRC) to present, share and discuss their latest research results. 
+  This workshop aims to bring together researchers and practitioners from academia and industry working in emerging LiFi, visible light communications (VLC) and underwater optical communications as well as the traditional wireless infrared communications (IRC) to present, share and discuss their latest research results. 
 
 ---
-#### Date: MONDAY, 7 DECEMBER 2020 (FULL DAY)
 
 ### History
 

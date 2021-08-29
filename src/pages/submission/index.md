@@ -4,16 +4,15 @@ path: /submission
 title: Submission
 image: /img/jumbotron.jpg
 ---
-[Download Call for Submissions PDF >>](/img/GC2020_CALL_FOR_WORKSHOP_PAPERS_WS-04_OWC2020_20200814.pdf)
+[Download Call for Submissions PDF >>](../../img/icc2022ws_OWC_CFP_v01.pdf)
 
 ### IMPORTANT DATES
 
-|  |  |
-|------|-------|
-|Paper submission: | 14 August, 2020 (firm) |
-|Notification of acceptance: | 15 September, 2020|
-|Final papers submission: | <span style="color: red; ">6 October, 2020</span> |
-
+| | |
+|--|--|
+|Submission Deadline: | <span style="color: red; ">20 January, 2022</span> |
+|Acceptance Notification: | 06 March, 2022 |
+|Camera Ready: | 15 March, 2022 |   
 
 
 ### SUBMISSION GUIDELINES
