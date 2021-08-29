@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Optical Wireless Communication
 image: /img/jumbotron.jpg
-heading: OWC’20
-subheading: 9th IEEE GLOBECOM Workshop on Optical Wireless Communications (OWC'20)
+heading: OWC’22
+subheading: 10th IEEE GLOBECOM Workshop on Optical Wireless Communications (OWC'22)
 mainpitch:
   title: Optical wireless communications
   description: >
@@ -32,4 +32,6 @@ Second held at Globecom 2011, Houston TX, USA, 5 December 2011
 
 [Eighth](http://yamazato.ilas.nagoya-u.ac.jp/owc/index.html) held at Globecom 2018, Abu Dhabi, UAE, Dec 9, 2018
 
-[Ninth](https://globecom2020.ieee-globecom.org/workshop/ws-04-workshop-optical-wireless-communications-owc) will be held at Globecom 2020, Taipei, Taiwan, [Monday, Dec 7, 2020](https://globecom2020.ieee-globecom.org/workshop/ws-01-workshop-optical-wireless-communications-owc)
+[Ninth](http://yamazato.ilas.nagoya-u.ac.jp/owc-2020/index.html) held at Globecom 2020, Taipei, Taiwan, [Monday, Dec 7, 2020](https://globecom2020.ieee-globecom.org/workshop/ws-01-workshop-optical-wireless-communications-owc)
+
+[Tenth](https://globecom2020.ieee-globecom.org/workshop/ws-04-workshop-optical-wireless-communications-owc) will be held at ICC 2022, Seoul, Korea.
