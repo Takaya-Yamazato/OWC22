@@ -8,7 +8,7 @@ module.exports = {
       facebook: `https://www.facebook.com/JapanOCWConsortium/`
     }
   },
-  pathPrefix: `/owc-2022`,  
+  pathPrefix: `/OWC22`,  
   plugins: [
     'gatsby-plugin-image',
     {
