@@ -3,25 +3,24 @@ templateKey: index-page
 title: Optical Wireless Communication
 image: /img/jumbotron.jpg
 heading: OWC’22
-subheading: 10th IEEE GLOBECOM Workshop on Optical Wireless Communications (OWC'22)
+subheading: 7th IEEE ICC Workshop on Optical Wireless Communications (OWC'22)
 mainpitch:
   title: Optical wireless communications
   description: >
     Optical wireless communications (OWC) is a form of optical communication in which unguided visible, infrared (IR), or ultraviolet (UV) light is used to carry a signal.
 description: >-
-  This workshop aims to bring together researchers and practitioners from academia and industry working in emerging LiFi, visible light communications (VLC) and underwater optical communications as well as the traditional wireless infrared communications (IRC) to present, share and discuss their latest research results. 
-
+  This workshop aims to bring together researchers and practitioners from academia and industry working in emerging LiFi, visible light communications (VLC) and underwater optical communications as well as the traditional wireless infrared communications (IRC) to present, share and discuss their latest research results.
 ---
 
-## History 
+## History
 
 ### ICC workshops
-	
-- First	held at London, UK, June. 8, 2015.
+
+- First held at London, UK, June. 8, 2015.
 - Second held at June. 8, 2015, May 23, 2016
-- Third	held at Paris, France, May 21, 2017
-- Fourth held at Kansas City, USA, May 20, 2018	
-- Fifth	held at Shanghai, China, May 24, 2019
+- Third held at Paris, France, May 21, 2017
+- Fourth held at Kansas City, USA, May 20, 2018
+- Fifth held at Shanghai, China, May 24, 2019
 - Sixth held at Dublin, Ireland, June 7, 2020
 - **<span style="color: red; ">[Seventh](http://yamazato.ilas.nagoya-u.ac.jp/owc2022/index.html) will be held at ICC 2022, Seoul, Korea.</span>**
 
@@ -44,7 +43,3 @@ description: >-
 - [Eighth](http://yamazato.ilas.nagoya-u.ac.jp/owc/index.html) held at Globecom 2018, Abu Dhabi, UAE, Dec 9, 2018
 
 - [Ninth](http://yamazato.ilas.nagoya-u.ac.jp/owc-2020/index.html) held at Globecom 2020, Taipei, Taiwan, [Monday, Dec 7, 2020](https://globecom2020.ieee-globecom.org/workshop/ws-01-workshop-optical-wireless-communications-owc)
-
-
-
-
