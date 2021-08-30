@@ -22,6 +22,7 @@ description: >-
 - Third	held at Paris, France, May 21, 2017
 - Fourth held at Kansas City, USA, May 20, 2018	
 - Fifth	held at Shanghai, China, May 24, 2019
+- Sixth held at Dublin, Ireland, June 7, 2020
 - **<span style="color: red; ">[Seventh](http://yamazato.ilas.nagoya-u.ac.jp/owc2022/index.html) will be held at ICC 2022, Seoul, Korea.</span>**
 
 ### Globecom Workshops
