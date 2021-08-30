@@ -14,7 +14,7 @@ description: >-
 
 ## History
 
-### ICC workshops
+### ICC Workshops
 
 - First held at London, UK, June. 8, 2015.
 - Second held at June. 8, 2015, May 23, 2016
