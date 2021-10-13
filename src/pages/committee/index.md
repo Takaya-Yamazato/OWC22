@@ -31,6 +31,6 @@ intro:
 - Prof. Shintaro Arai, Okayama Univ Sci, Okayama, Japan
 - Prof. Masayuki Kinoshita, Chiba Institute of Technology, Japan
 
-### TPC Members
+### List of TPC Members
 
 TBD
