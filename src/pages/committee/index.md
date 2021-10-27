@@ -34,20 +34,31 @@ intro:
 ### List of TPC Members
 
 - Luis Alves, Universidade of Aveiro, Portugal
+- Shintaro Arai, Okayama University of Science, Japan
 - Bastien Bechadergue, University of Versailles Saint-Quentin-en-Yvelines, France
 - Chedlia Ben Naila, Nagoya University, Japan
+- Maite Brandt-Pearce, University of Virginia, USA
 - Julian Cheng, University of British Columbia, Canada
 - Wataru Chujo, Meijo University, Japan
 - Yeonho Chung, Pukyong National University, South Korea
 - Xiong Deng, Technical University of Eindhoven, Netherlands
 - Chen Gong, University of Science and Technology of China, China
+- Harald Haas, The University of Strathclyde, UK
 - Mohammad-Ali Khalighi, Ecole Centrale Marseille, France
 - Masayuki Kinoshita, Chiba Institute of Technology, Japan
 - Motoi Kodama, Tamagawa University, Japan
+- Yusuke Kozawa, Ibaraki University, Japan
 - Gong-Ru Lin, National Taiwan University, Taiwan
+- Xin Lin, Nakagawa Laboratories, Inc., Japan
+- Dominic O'Brien, Oxford University, UK
 - Hiraku Okada, Nagoya University, Japan
 - Anh Pham, University of Aizu, Japan
 - Tien Dat Pham, National Institute of Information and Communications Technology, Japan
+- Maximilian Riegel, Nokia Bell Labs, Germany
 - Yoshifumi Shiraki, Nippon Telegraph and Telephone Corporation, Japan
+- Osamu Takyu, Shinshu University, Japan
+- Mike Wolf, Ilmenau University of Technology, Germany
+- Zhengyuan Xu, University of Science and Technology of China, China
 - Takaya Yamazato, Nagoya University, Japan
 - Tomohiro Yendo, Nagaoka University of Technology, Japan
+- Anatolij Zubow, Technische Universität Berlin, Germany
