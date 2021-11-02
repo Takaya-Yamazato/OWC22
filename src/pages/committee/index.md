@@ -50,6 +50,7 @@ intro:
 - Yusuke Kozawa, Ibaraki University, Japan
 - Gong-Ru Lin, National Taiwan University, Taiwan
 - Xin Lin, Nakagawa Laboratories, Inc., Japan
+- Thomas Little, Boston University, USA
 - Dominic O'Brien, Oxford University, UK
 - Hiraku Okada, Nagoya University, Japan
 - Anh Pham, University of Aizu, Japan
