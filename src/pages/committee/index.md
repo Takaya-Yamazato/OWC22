@@ -42,8 +42,10 @@ intro:
 - Wataru Chujo, Meijo University, Japan
 - Yeonho Chung, Pukyong National University, South Korea
 - Xiong Deng, Technical University of Eindhoven, Netherlands
+- Antonio Garcia-Zambrana, University of Malaga, Spain
 - Chen Gong, University of Science and Technology of China, China
 - Harald Haas, The University of Strathclyde, UK
+- Hiromasa Habuchi, Ibaraki University, Japan
 - Mohammad-Ali Khalighi, Ecole Centrale Marseille, France
 - Masayuki Kinoshita, Chiba Institute of Technology, Japan
 - Motoi Kodama, Tamagawa University, Japan
@@ -59,6 +61,7 @@ intro:
 - Yoshifumi Shiraki, Nippon Telegraph and Telephone Corporation, Japan
 - Osamu Takyu, Shinshu University, Japan
 - Mike Wolf, Ilmenau University of Technology, Germany
+- Xiping Wu, University College Dublin, Ireland
 - Zhengyuan Xu, University of Science and Technology of China, China
 - Takaya Yamazato, Nagoya University, Japan
 - Tomohiro Yendo, Nagaoka University of Technology, Japan
