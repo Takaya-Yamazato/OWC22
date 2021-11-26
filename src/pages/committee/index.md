@@ -46,7 +46,9 @@ intro:
 - Chen Gong, University of Science and Technology of China, China
 - Harald Haas, The University of Strathclyde, UK
 - Hiromasa Habuchi, Ibaraki University, Japan
+- Sung-yoon Jung, Yeungnam University, South Korea
 - Mohammad-Ali Khalighi, Ecole Centrale Marseille, France
+- Byung Wook Kim, Changwon National University, South Korea
 - Masayuki Kinoshita, Chiba Institute of Technology, Japan
 - Motoi Kodama, Tamagawa University, Japan
 - Yusuke Kozawa, Ibaraki University, Japan
