@@ -20,5 +20,5 @@ image: /img/jumbotron.jpg
 IEEE OWC Workshop accepts only novel, previously unpublished papers in the area of optical wireless communications. 
 Prospective authors are encouraged to submit a 6-page IEEE conference style paper (including all text, figures, and references) through EDAS submission system.
 
-We will update the submission guidelines once we get information from ICC2022.
+/*We will update the submission guidelines once we get information from ICC2022.*/
 
