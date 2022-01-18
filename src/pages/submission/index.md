@@ -4,7 +4,7 @@ path: /submission
 title: Submission
 image: /img/jumbotron.jpg
 ---
-[Download Call for Submissions PDF >>](../../img/icc2022ws_OWC_CFP_v01.pdf)
+[Download Call for Submissions PDF >>](../../img/icc2022ws_OWC_CFP_extendedDeadline.pdf)
 
 ### IMPORTANT DATES
 
