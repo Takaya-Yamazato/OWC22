@@ -14,13 +14,14 @@ We will provide up-to-date information on the workshop as well as ICC2022.
 
 Stay tuned!
 
-[Download Call for Submissions PDF >>](../../img/icc2022ws_OWC_CFP_v01.pdf)
+[Download Call for Submissions PDF >>](../../img/icc2022ws_OWC_CFP_extendedDeadline.pdf)
 
 ### IMPORTANT DATES
 
 | | |
 |--|--|
-|Submission Deadline: | <span style="color: red; ">20 January, 2022</span> |
+|Submission Deadline: | <span style="color: red; "><s>20 January, 2022</s></span> |
+|| <span style="color: red; ">03 February, 2022</span> |
 |Acceptance Notification: | 06 March, 2022 |
 |Camera Ready: | 15 March, 2022 |   
 |Author Registration for Accepted Papers: | 15 March, 2022 |
