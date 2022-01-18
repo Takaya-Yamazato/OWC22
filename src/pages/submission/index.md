@@ -11,6 +11,7 @@ image: /img/jumbotron.jpg
 | | |
 |--|--|
 |Submission Deadline: | <span style="color: red; "><s>20 January, 2022</s> 03 February, 2022 (Extended)</span> |
+|| <span style="color: red; ">03 February, 2022 (Extended)</span> |
 |Acceptance Notification: | 06 March, 2022 |
 |Camera Ready: | 15 March, 2022 |   
 |Author Registration for Accepted Papers: | 15 March, 2022 |
