@@ -37,10 +37,8 @@ intro:
 - Shintaro Arai, Okayama University of Science, Japan
 - Bastien Bechadergue, University of Versailles Saint-Quentin-en-Yvelines, France
 - Chedlia Ben Naila, Nagoya University, Japan
-- Maite Brandt-Pearce, University of Virginia, USA
 - Julian Cheng, University of British Columbia, Canada
 - Wataru Chujo, Meijo University, Japan
-- Yeonho Chung, Pukyong National University, South Korea
 - Xiong Deng, Technical University of Eindhoven, Netherlands
 - Antonio Garcia-Zambrana, University of Malaga, Spain
 - Chen Gong, University of Science and Technology of China, China
@@ -52,8 +50,6 @@ intro:
 - Masayuki Kinoshita, Chiba Institute of Technology, Japan
 - Motoi Kodama, Tamagawa University, Japan
 - Yusuke Kozawa, Ibaraki University, Japan
-- Gong-Ru Lin, National Taiwan University, Taiwan
-- Xin Lin, Nakagawa Laboratories, Inc., Japan
 - Thomas Little, Boston University, USA
 - Dominic O'Brien, Oxford University, UK
 - Hiraku Okada, Nagoya University, Japan
@@ -61,10 +57,14 @@ intro:
 - Tien Dat Pham, National Institute of Information and Communications Technology, Japan
 - Maximilian Riegel, Nokia Bell Labs, Germany
 - Yoshifumi Shiraki, Nippon Telegraph and Telephone Corporation, Japan
+- Kotomi Takahashi, Chiba Institute of Technology, Japan
 - Osamu Takyu, Shinshu University, Japan
+- Phuc V. Trinh, National Institute of Information and Communications Technology, Japan
 - Mike Wolf, Ilmenau University of Technology, Germany
+- Yoshifumi Shiraki, Nippon Telegraph and Telephone Corporation, Japan
 - Xiping Wu, University College Dublin, Ireland
 - Zhengyuan Xu, University of Science and Technology of China, China
 - Takaya Yamazato, Nagoya University, Japan
 - Tomohiro Yendo, Nagaoka University of Technology, Japan
+- Murat Yuksel, University of Central Florida, USA
 - Anatolij Zubow, Technische Universität Berlin, Germany
