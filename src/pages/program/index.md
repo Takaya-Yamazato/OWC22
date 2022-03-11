@@ -4,7 +4,7 @@ path: /program
 title: Program
 image: /img/jumbotron.jpg
 ---
-heading: Program
+### Program
 TBD
 
 <!--
