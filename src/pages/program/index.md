@@ -7,7 +7,7 @@ image: /img/jumbotron.jpg
 ### Program
 
 ### Session I 9:00-12:30 (Live, Friday, May 20)
-
+<!--
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
