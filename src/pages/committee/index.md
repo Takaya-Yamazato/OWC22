@@ -38,6 +38,7 @@ intro:
 - Bastien Bechadergue, University of Versailles Saint-Quentin-en-Yvelines, France
 - Chedlia Ben Naila, Nagoya University, Japan
 - Julian Cheng, University of British Columbia, Canada
+- Nan Chi, Fudan University, China
 - Wataru Chujo, Meijo University, Japan
 - Xiong Deng, Technical University of Eindhoven, Netherlands
 - Antonio Garcia-Zambrana, University of Malaga, Spain
