@@ -7,7 +7,7 @@ image: /img/jumbotron.jpg
 ### Program
 - Friday, 20 MAY 2022
 
-### Session I 9:00-12:30 (Live Q&A)
+## Session I 9:00-12:30 (Live Q&A)
 ### High-Speed OWC Systems and Networks (Chair: Prof. Yeong Min Jang, Koookmin University)
 |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 
@@ -19,8 +19,10 @@ image: /img/jumbotron.jpg
 | 11:30-12:00 | Optimizing Rate Splitting in Laser-based Optical Wireless Networks<br><em>Khulood Alazwary, Ahmad Adnan Qidan, Taisir El-Gorashi and Jaafar Elmirghani (University of Leeds, United Kingdom (Great Britain))                                                                                                                                                                                                                                                                                                                                       </em>| 
 | 12:00-12:30 | Physical Layer Security for Visible Light Communication in the Presence of ISI and NLoS<br><em>Khulood Alazwary, Ahmad Adnan Qidan, Taisir El-Gorashi and Jaafar Elmirghani (University of Leeds, United Kingdom (Great Britain))                                                                                                                                                                                                                                                                                                                                       </em>| 
 
-
-### Session II 14:00-17:00 (Live Q&A)
+***
+### Break 12:30-14:00
+***
+## Session II 14:00-17:00 (Live Q&A)
 ### OCC and Other Applications (Chair: Prof. Shinichiro Haruyama, Keio University)
 |             |                                                                                                                                                                      | 
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
