@@ -5,7 +5,7 @@ title: Program
 image: /img/jumbotron.jpg
 ---
 ### Program
--Friday, 20 MAY 2022
+- Friday, 20 MAY 2022
 
 ### Session I 9:00-12:30 (Live Q&A)
 ### High-Speed OWC Systems and Networks (Chair: Prof. Yeong Min Jang, Koookmin University)
