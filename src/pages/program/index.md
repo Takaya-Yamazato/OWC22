@@ -26,16 +26,16 @@ image: /img/jumbotron.jpg
 |             | Khulood Alazwary, Ahmad Adnan Qidan, Taisir El-Gorashi and Jaafar Elmirghani (University of Leeds, United Kingdom (Great Britain))                                                                                                                                                                                                                                                                                                                                       | 
 ### Session II 14:00-17:00 (Live, Friday, May 20)
 ### OCC and Other Applications (Chair: Prof. Shinichiro Haruyama, Keio University)
-| 14:00-14:30 | Iterative Spectral Image Reconstruction-Based Display Field Communication Using Advanced Receiver                                                                    |     | 
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | 
-|             | Pankaj Singh (Yeungnam University, Korea (South)), Byung Wook Kim (Changwon National University, Korea (South)), Sung-yoon Jung (Yeungnam University, Korea (South)) |     | 
-| 14:30-15:00 | A study on modulation and diversity methods based on uniform color space for digital signage and image sensor-based VLC                                              |     | 
-|             | Kazuya Shimei, Kentaro Kobayashi and Wataru Chujo (Meijo University, Japan)                                                                                          |     | 
-| 15:00-15:30 | M-point Combinatory for Parallel Transmission Image Sensor-based Visible Light Communications                                                                        |     | 
-|             | Takumi Sato, Koji Kamakura and Masayuki Kinoshita (Chiba Institute of Technology, Japan), Takaya Yamazato (Nagoya University, Japan)                                 |     | 
-| 15:30-16:00 | On the performance of wireless optical communication systems in underwater channels                                                                                  |     | 
-|             | Kamran Kiasaleh (Universsity of Texas at Dallas & IEEE, USA), Yalçın Ata (OSTIM Technical University, Turkey)                                                       |     | 
-| 16:00-16:30 | Visible Light Communication System Using Rolling Shutter Image Sensor for ITS                                                                                        |     | 
-|             | Shunki Kamiya, Zhengqiang Tang and Takaya Yamazato (Nagoya University, Japan)                                                                                        |     | 
-| 16:30-17:00 | A Preliminary Investigation For Event Camera-Based Visible Light Communication Using The Propeller-type Rotary LED Transmitter                                       |     | 
-|             | Zhengqiang Tang and Takaya Yamazato (Nagoya University, Japan), Shintaro Arai (Okayama University of Science, Japan)                                                 |     | 
+| 14:00-14:30 | Iterative Spectral Image Reconstruction-Based Display Field Communication Using Advanced Receiver                                                                    | 
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+|             | Pankaj Singh (Yeungnam University, Korea (South)), Byung Wook Kim (Changwon National University, Korea (South)), Sung-yoon Jung (Yeungnam University, Korea (South)) | 
+| 14:30-15:00 | A study on modulation and diversity methods based on uniform color space for digital signage and image sensor-based VLC                                              | 
+|             | Kazuya Shimei, Kentaro Kobayashi and Wataru Chujo (Meijo University, Japan)                                                                                          | 
+| 15:00-15:30 | M-point Combinatory for Parallel Transmission Image Sensor-based Visible Light Communications                                                                        | 
+|             | Takumi Sato, Koji Kamakura and Masayuki Kinoshita (Chiba Institute of Technology, Japan), Takaya Yamazato (Nagoya University, Japan)                                 | 
+| 15:30-16:00 | On the performance of wireless optical communication systems in underwater channels                                                                                  | 
+|             | Kamran Kiasaleh (Universsity of Texas at Dallas & IEEE, USA), Yalçın Ata (OSTIM Technical University, Turkey)                                                       | 
+| 16:00-16:30 | Visible Light Communication System Using Rolling Shutter Image Sensor for ITS                                                                                        | 
+|             | Shunki Kamiya, Zhengqiang Tang and Takaya Yamazato (Nagoya University, Japan)                                                                                        | 
+| 16:30-17:00 | A Preliminary Investigation For Event Camera-Based Visible Light Communication Using The Propeller-type Rotary LED Transmitter                                       | 
+|             | Zhengqiang Tang and Takaya Yamazato (Nagoya University, Japan), Shintaro Arai (Okayama University of Science, Japan)                                                 | 
