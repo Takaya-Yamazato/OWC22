@@ -4,7 +4,7 @@ path: /program
 title: Program
 image: /img/jumbotron.jpg
 ---
-### Program
+
 - Friday, 20 MAY 2022
 
 ## Session I 9:00-12:30 (Live Q&A)
