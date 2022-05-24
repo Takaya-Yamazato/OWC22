@@ -1,30 +1,30 @@
 {
   "name": "owc-2022-cms",
   "description": "10th Optical Wireless Communicaiton (OWC) Workshop, IEEE ComSoc ICC 2022 at Seoul",
-  "version": "1.1.3",
+  "version": "1.1.5",
   "author": "Takaya Yamazato",
   "dependencies": {
-    "bulma": "^0.9.3",
-    "gatsby": "^3.12.1",
-    "gatsby-image": "^3.11.0",
-    "gatsby-plugin-image": "^1.12.0",    
-    "gatsby-plugin-purgecss": "^6.0.2",
-    "gatsby-plugin-react-helmet": "^4.12.0",
-    "gatsby-plugin-sass": "^4.12.0",
-    "gatsby-plugin-sharp": "^3.12.0",
-    "gatsby-remark-copy-linked-files": "^4.9.0",
-    "gatsby-remark-images": "^5.9.0",
+    "@react-icons/all-files": "^4.1.0",
+    "bulma": "^0.9.4",
+    "gatsby": "^4.14.1",
+    "gatsby-plugin-image": "^2.14.1",
+    "gatsby-plugin-purgecss": "^6.1.2",
+    "gatsby-plugin-react-helmet": "^5.14.0",
+    "gatsby-plugin-sass": "^5.14.0",
+    "gatsby-plugin-sharp": "^4.14.1",
+    "gatsby-remark-copy-linked-files": "^5.14.0",
+    "gatsby-remark-images": "^6.14.0",
     "gatsby-remark-relative-images": "^2.0.2",
-    "gatsby-source-filesystem": "^3.12.0",
-    "gatsby-transformer-remark": "^4.9.0",
-    "gatsby-transformer-sharp": "^3.12.0",
+    "gatsby-source-filesystem": "^4.14.0",
+    "gatsby-transformer-remark": "^5.14.0",
+    "gatsby-transformer-sharp": "^4.14.0",
     "lodash": "^4.17.21",
     "lodash-webpack-plugin": "^0.11.6",
-    "node-sass": "^6.0.1",
-    "prop-types": "^15.7.2",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "prop-types": "^15.8.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
     "react-helmet": "^6.1.0",
+    "sass": "^1.52.1",
     "uuid": "^8.3.2"
   },
   "keywords": [
@@ -35,12 +35,12 @@
   "scripts": {
     "clean": "gatsby clean",
     "start": "npm run develop",
-    "build": "npm run clean && gatsby build --prefix-paths",
-    "develop": "npm run clean && gatsby develop",
+    "build": "gatsby clean && gatsby build --prefix-paths",
+    "develop": "gatsby clean && gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "^2.3.2"
+    "prettier": "^2.6.2"
   }
 }
