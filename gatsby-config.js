@@ -10,6 +10,12 @@ module.exports = {
   },
   pathPrefix: `/owc2022`,
   plugins: [
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/owc-2022/`,
+      },
+    },
     'gatsby-plugin-image',
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
