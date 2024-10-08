@@ -34,7 +34,7 @@
   "main": "n/a",
   "scripts": {
     "clean": "gatsby clean",
-    "start": "yarn run develop",
+    "start": "npm run develop",
     "build": "gatsby clean && gatsby build --prefix-paths",
     "develop": "gatsby clean && gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
