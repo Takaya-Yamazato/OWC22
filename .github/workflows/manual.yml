@@ -18,21 +18,22 @@ jobs:
     # 実行する処理やコマンドを指定
     steps:
       # レポジトリからの checkout を実行
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       #      - uses: enriikke/gatsby-gh-pages-action@v2
       #        with:
       #          access-token: ${{ secrets.ACCESS_TOKEN }}
       #          gatsby-args: --prefix-paths
       # Node のセットアップ
-      - name: Use Node.js 19.x
-        uses: actions/setup-node@v3
+      - name: Use Node.js latest version
+        uses: actions/setup-node@v4
         with:
-          node-version: "19.x"
+          node-version: latest
+          cache: 'npm'
       # Node の実行（npm install, npm run build）
       - name: Build Project
         run: |
-          yarn
-          yarn run build
+          npm install
+          npm run build
       # 確認のためのリスト表示　必要なければ削除
       - name: List output files
         run: ls -laFG
