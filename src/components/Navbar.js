@@ -45,15 +45,23 @@ const Navbar = class extends React.Component {
               <img src={logo} alt="OWC2022" style={{ width: '88px' }} />
             </Link>
             {/* Hamburger menu */}
-            <div
+            <button
+                  className={`navbar-burger burger ${this.state.navBarActiveClass}`}
+                  aria-label="Nav button"
+                  data-target="navMenu"
+                  onClick={() => this.toggleHamburger()}
+                  tabIndex={0}
+                >
+            {/* <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
+              aria-label="Nav button"
               data-target="navMenu"
               onClick={() => this.toggleHamburger()}
-            >
+            > */}
               <span />
               <span />
               <span />
-            </div>
+            </button>
           </div>
           <div
             id="navMenu"

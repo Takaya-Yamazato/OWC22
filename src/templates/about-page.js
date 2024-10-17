@@ -6,7 +6,6 @@ import Content, { HTMLContent } from '../components/Content'
 
 export const AboutPageTemplate = ({
   title,
-  image,
   content,
   contentComponent,
 }) => {
@@ -84,11 +83,6 @@ export const aboutPageQuery = graphql`
       html
       frontmatter {
         title
-        image {
-          childImageSharp {
-            gatsbyImageData(width: 240, quality: 100, layout: CONSTRAINED)
-          }
-        }
       }
     }
   }
