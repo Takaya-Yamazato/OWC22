@@ -5,7 +5,7 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import Content, { HTMLContent } from '../components/Content'
 
-export const CommitteePageTemplate = ({
+const CommitteePageTemplate = ({
   image,
   title,
   heading,
