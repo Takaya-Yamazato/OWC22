@@ -4,11 +4,7 @@ import { graphql, withPrefix } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const AboutPageTemplate = ({
-  title,
-  content,
-  contentComponent,
-}) => {
+const AboutPageTemplate = ({ title, image, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
@@ -83,6 +79,11 @@ export const aboutPageQuery = graphql`
       html
       frontmatter {
         title
+        image {
+          childImageSharp {
+            gatsbyImageData(width: 240, quality: 100, layout: CONSTRAINED)
+          }
+        }
       }
     }
   }
