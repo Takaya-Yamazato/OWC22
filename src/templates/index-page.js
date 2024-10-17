@@ -6,7 +6,7 @@ import Layout from '../components/Layout'
 import BlogRoll from '../components/BlogRoll'
 import Content, { HTMLContent } from '../components/Content'
 
-export const IndexPageTemplate = ({
+const IndexPageTemplate = ({
   image,
   title,
   heading,
