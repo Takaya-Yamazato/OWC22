@@ -4,9 +4,6 @@ module.exports = {
     description:
       ' 10th IEEE GLOBECOM Workshop on Optical Wireless Communications (OWC’22), IEEE ComSoc ICC 2022 at Seoul ',
     siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/owc2022/`,
-    social: {
-      facebook: `https://www.facebook.com/JapanOCWConsortium/`,
-    },
   },
   pathPrefix: `/owc2022`,
   plugins: [
