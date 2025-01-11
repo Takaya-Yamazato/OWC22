@@ -13,6 +13,7 @@ module.exports = {
         siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/owc2022/`,
       },
     },
+    `gatsby-plugin-sitemap`,
     'gatsby-plugin-image',
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
