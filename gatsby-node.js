@@ -88,9 +88,15 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     // }
   })
 
+
   // Eliminate duplicate tags
   tags = _.uniq(tags)
-
+  // Delete null tag
+  tags = tags.filter(function (e) {
+      return e != null
+    })
+  console.log(tags)
+    
   // Make tag pages
   tags.forEach((tag) => {
     const tagPath = `/tags/${_.kebabCase(tag)}/`
